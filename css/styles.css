@@ -1,4 +1,4 @@
-﻿body { background-color:#eeeeee; }
+﻿body { background-color:#eeeeee; box-flex: }
 
 #wrapper { width:900px; margin:0px auto; background-image:url('../images/topo3.png'); background-attachment:fixed; }
 
@@ -8,8 +8,8 @@
 
 #socialmedia {float:right; margin:0px 10px 0 0px; }
 #socialmedia p {color: #000000; font-size:11px; font-family:"Franklin Gothic Book"; margin:4px 10px 4px 39px; }
-#socialmedia img { width:25px; height:25px; margin:0px 10px 0 0; }
-#socialmedia ul li { display:inline;}
+#socialmedia img { width:50px; height:25px; margin:0px 10px 0 0; }
+#socialmedia ul li { display: inline;}
 
 #socialmedia a:hover { color:#FFFFFF;  display:table-cell; }
 #socialmedia a:active {color:black;  } 
