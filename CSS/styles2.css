@@ -1,7 +1,5 @@
 ﻿
-body {background-color:#eeeeee;}
-
-#wrapper { width:900px; margin:0px auto; background-color:#ffffff;}
+/*#wrapper { width:900px; margin:0px auto; background-color:#ffffff;}
 
 #top {background-image:url('800x518_Vector-Topographic-Map-Contours-Preview-1.jpg');background-attachment:fixed; width:100%; padding:20px 0; overflow:hidden; }
 
@@ -25,10 +23,10 @@ body {background-color:#eeeeee;}
 #topnav a:link {color:black; }
 #topnav a:visited {color:black;}
 #topnav a:active {color:black;}
-#topnav a:hover {color:#black;background-image:url('800x518_Vector-Topographic-Map-Contours-Preview-1.jpg') ; } 
-#topnav a:focus {color:#black;}
+#topnav a:hover {color:black;background-image:url('800x518_Vector-Topographic-Map-Contours-Preview-1.jpg') ; } 
+#topnav a:focus {color:black;}
 
-
+#
 
 #banner { background-color:#B6B6B4; padding:0 0; margin:0 0; }
 #banner ul {width:100%; height:auto; }

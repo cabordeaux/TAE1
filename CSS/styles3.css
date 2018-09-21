@@ -1,4 +1,4 @@
-﻿body { background-color:#eeeeee; }
+﻿/*body { background-color:#eeeeee; }
 
 #wrapper { width:900px; margin:0px auto; background-image:url('../images/web image gallery/topo2.png'); background-attachment:fixed; }
 
@@ -24,8 +24,8 @@
 #topnav a:link {color:black; }
 #topnav a:visited {color:black;}
 #topnav a:active {color:black;}
-#topnav a:hover {color:#black; background-image:url('800x518_Vector-Topographic-Map-Contours-Preview-1.jpg'); } 
-#topnav a:focus {color:#black;}
+#topnav a:hover {color:black; background-image:url('800x518_Vector-Topographic-Map-Contours-Preview-1.jpg'); } 
+#topnav a:focus {color:black;}
 
 
 
