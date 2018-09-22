@@ -1,9 +1,5 @@
 ﻿* {
     margin: 0;
-    padding: 0;
-	box-sizing: border-box;
-	width: 900px;
-	max-width: 100%;
 }
 
 body {
@@ -119,8 +115,10 @@ body { background-color:#eeeeee;}
 
 
 #banner { background-image:url('Richtunn%20website%20img.jpg'); width:900px; height:599px; } 
-#banner ul li {
-	list-style: none
+
+
+ul li a{
+	list-style: none;
 }
 
 #leftside { float:left; width:420px; margin-bottom:0px; padding-left:20px; }
