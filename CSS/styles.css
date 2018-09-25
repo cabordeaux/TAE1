@@ -1,7 +1,6 @@
 ﻿body { 
 	 background-color:#eeeeee; 
-	 color: red;
-	 width:90px; margin:0px auto;
+	 width:100px; margin:0px auto;
 }
 
 #wrapper { width:900px; margin:0px auto; background-image:url('../images/web image gallery/topo2.png'); background-attachment:fixed; }
